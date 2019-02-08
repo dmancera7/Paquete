@@ -16,6 +16,7 @@ public class Pruebas {
 		System.out.println(n.toString());
 		System.out.println(m.toString());
 		System.out.println("FIN");
+		System.out.println("TEST");
 	}
 
 }
